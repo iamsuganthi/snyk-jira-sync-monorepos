@@ -14,5 +14,5 @@ You can download the binary from the github link above.
 3) Update binary in line 26 to use the binary that you have installed: \
    `snyk-jira-sync-macos` or `snyk-jira-sync-linux`
 
-### Run the script:
-node new-issues-to-jira.js
+### Run the script: \
+`node new-issues-to-jira.js`
